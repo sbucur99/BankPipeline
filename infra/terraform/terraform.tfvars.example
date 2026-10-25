@@ -1,0 +1,7 @@
+aws_region               = "us-east-1"
+environment              = "dev"
+neo4j_instance_type      = "r6i.large"
+redshift_node_type       = "ra3.xlplus"
+redshift_nodes           = 1
+neo4j_password           = "ChangeMe_Neo4j1"
+redshift_admin_password  = "ChangeMe_Redshift1"
